@@ -3,11 +3,11 @@ Versión 1.0.0
 
 Descripción
 ------------
-Plugin elaborado para Joomla! 2.5 que se encarga de validar la opción de "Terminos y servicios" del formulario de registro.
+Plugin elaborado para Joomla! 2.5 que se encarga de validar la opción de "Terminos y servicios" del formulario de registro de usuarios.
 
 Importante
 -----------
-Para que el plugin funcione correctamente, debe existir el override aplicado al formulario de registros de usuario.
+Para que el plugin funcione correctamente, debe existir el override aplicado al formulario de registro de usuarios.
 
 Instalación
 -----------
