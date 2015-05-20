@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="2.5" type="plugin" group="user">
-    <name>Usuario - Validar terminos de servicio</name>
+    <name>PLG_USER_VALIDTERMS_NAME</name>
     <author>Jesse Rangel - Portal Directo</author>
     <creationDate>14 de Mayo 2015</creationDate>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <authorEmail>info@portaldirecto.com</authorEmail>
     <authorUrl>www.portaldirecto.com</authorUrl>
     <version>1.0.0</version>
-    <description>
-        Validador de terminos de servicio:
-
-        Plugin elaborado para Joomla! 2.5 que se encarga de validar la opción de "Terminos y servicios" del formulario de registro de usuarios.
-    </description>
+    <description>PLG_USER_VALIDTERMS_DESC</description>
     <files>
         <filename plugin="validterms">validterms.php</filename>
         <filename>index.html</filename>
